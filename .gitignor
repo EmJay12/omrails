@@ -1,0 +1,8 @@
+/tmp
+doc/
+*.swp
+*~
+.project
+.DS_store
+.idea
+/log/*.log
