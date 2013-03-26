@@ -14,11 +14,6 @@ body {
 
 @import 'bootstrap-responsive' ;
 
-.navbar-inner {
-	@include box-shadow(non !important);
-	border: 0;
-}
-
 .footer {
 
 	margin-top: 50px;
