@@ -6,3 +6,6 @@ doc/
 .DS_store
 .idea
 /log/*.log
+
+#Ignore Paperclip uploaded files
+/public/system
